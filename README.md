@@ -80,10 +80,6 @@ This repository contains solutions, controller implementations, and simulations 
 3. Use the GUI to control and monitor robot navigation.
 4. Execute the motion plan with waypoints derived from the transition system.
 
-## Authors
-
-* Sara Ghasemi (EL2450 – Hybrid and Embedded Control Systems, 2025)
-
 ---
 
 📄 This repository contains the full implementation, analysis, and experimental validation of Homework 3, combining motion planning, hybrid control, and real-world robotics.
